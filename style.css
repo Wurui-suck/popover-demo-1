@@ -27,6 +27,7 @@
 .popover{
   height: 50px;
   width: 100px;
+    border: 1px red solid;
     left: 150px;
     position: absolute;
     background-color:transparent;
